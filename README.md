@@ -1,2 +1,2 @@
-# FitTrack
-A Comprehensive Fitness Tracker Web Application
+# Usman Foods
+The creation of the Usman Foods web application illustrates a careful method in meeting user requirements for food-related information and services. Using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL in combination strategically ensures that the application is both functional and visually appealing. These technologies were selected for their versatility, wide usage, and capacity to support a smooth user experience on various devices and screen sizes. Bootstrap and CSS media queries were utilized for responsive design, improving accessibility and usability on desktops, tablets, and mobile devices. 
