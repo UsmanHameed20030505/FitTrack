@@ -30,3 +30,21 @@ if(isset($_SESSION['user_id'])){
 
 </head>
 <body>
+!-- header section starts  -->
+<?php include 'components/user_header.php'; ?>
+<!-- header section ends -->
+
+<div class="heading">
+   <h3>About Us</h3>
+   <p><a href="home.php">Home</a> <span> / About</span></p>
+</div>
+
+<!-- about section starts  -->
+
+<section class="about">
+
+   <div class="row">
+
+      <div class="image">
+         <img src="images/about-img.svg" alt="">
+      </div>
